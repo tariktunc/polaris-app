@@ -1,8 +1,5 @@
 # 🌟 Polaris — Akıllı Ekran Kaydı & Video Kurgu Stüdyosu
 
-<p align="center">
-  <img src="banner.png" alt="Polaris Banner" width="100%"/>
-</p>
 
 <p align="center">
   <a href="https://tariktunc.github.io/polaris-app/"><img src="https://img.shields.io/badge/🌐_Canlı_Web_Sitesi-tariktunc.github.io%2Fpolaris--app-6366f1?style=for-the-badge" alt="Web Sitesi"/></a>
