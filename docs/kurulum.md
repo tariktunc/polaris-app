@@ -1,10 +1,10 @@
-# 🛠️ Polaris — Detaylı Kurulum ve İzin Kılavuzu
+# Polaris — Detaylı Kurulum ve İzin Kılavuzu
 
 Bu kılavuz, Polaris'in Windows ve macOS üzerinde ilk kurulumunda işletim sistemi güvenlik onaylarını nasıl yapılandıracağınızı adım adım açıklar.
 
 ---
 
-## 🪟 Windows 10 & 11 Kurulumu
+## Windows 10 ve 11 Kurulumu
 
 1. [Polaris-Setup-0.1.0.exe](https://github.com/tariktunc/polaris-app/releases/download/v0.1.0-beta/Polaris-Setup-0.1.0.exe) dosyasını indirin ve çift tıklayın.
 2. Karşınıza **Windows Defender SmartScreen** penceresi gelirse:
@@ -15,7 +15,7 @@ Bu kılavuz, Polaris'in Windows ve macOS üzerinde ilk kurulumunda işletim sist
 
 ---
 
-## 🍏 macOS Kurulumu (Apple Silicon & Intel)
+## macOS Kurulumu (Apple Silicon ve Intel)
 
 1. [Polaris-0.1.0-universal.dmg](https://github.com/tariktunc/polaris-app/releases/download/v0.1.0-beta/Polaris-0.1.0-universal.dmg) dosyasını açın.
 2. `Polaris.app` simgesini `Applications` (Uygulamalar) klasörüne sürükleyin.
@@ -27,7 +27,7 @@ Bu kılavuz, Polaris'in Windows ve macOS üzerinde ilk kurulumunda işletim sist
      xattr -cr /Applications/Polaris.app
      ```
 
-### 🔒 macOS Gerekli İzinler
+### macOS Gerekli İzinler
 Polaris'in ekranı ve sesi kaydedebilmesi için macOS şu izinleri talep eder:
 * **Ekran ve Sistem Sesi Kaydı**: Ekran görüntüsü ve bilgisayar içi sesleri yakalamak için.
 * **Kamera**: Web kameranızı baloncuk olarak kaydetmek için.

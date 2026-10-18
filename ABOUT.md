@@ -5,7 +5,7 @@ Ana kaynak kodlarınızı (Private Repo) sızdırmadan tamamen güvenli bir indi
 
 ---
 
-## 🚀 Hızlı Kurulum Adımları
+## Hızlı Kurulum Adımları
 
 ### 1. Yeni Bir Genel (Public) GitHub Reposu Açın
 - GitHub'da yeni bir repo oluşturun: Örneğin `polaris-app` veya `polaris-download`.
@@ -18,11 +18,11 @@ Ana kaynak kodlarınızı (Private Repo) sızdırmadan tamamen güvenli bir indi
 - GitHub reponuzda **Settings > Pages** sekmesine gidin.
 - **Build and deployment > Source** kısmını **Deploy from a branch** yapın.
 - Branch olarak `main` ve `/ (root)` seçip **Save** butonuna tıklayın.
-- Birkaç dakika içinde indirme sayfanız `https://kullaniciadi.github.io/polaris-app/` adresinde canlıya geçecektir!
+- Birkaç dakika içinde indirme sayfanız `https://kullaniciadi.github.io/polaris-app/` adresinde canlıya geçecektir.
 
 ---
 
-## 📦 Sürüm (Release) Dosyalarının Bağlanması
+## Sürüm (Release) Dosyalarının Bağlanması
 
 1. Derlediğiniz kurulum dosyalarını (`Polaris-Setup-0.1.0.exe` ve `Polaris-0.1.0-universal.dmg`) oluşturun.
 2. Açtığınız public reponun sağındaki **Releases > Create a new release** bölümüne gidin.
@@ -32,6 +32,6 @@ Ana kaynak kodlarınızı (Private Repo) sızdırmadan tamamen güvenli bir indi
 
 ---
 
-## 🛡️ Güvenlik Notu
+## Güvenlik Notu
 Ana proje kodlarınız (Electron, Rust, Swift kaynakları) kendi **Private** reponuzda kalır.
 Bu indirme reposu tamamen bağımsızdır ve kaynak kod içermez.

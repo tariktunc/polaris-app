@@ -1,4 +1,4 @@
-# ⌨️ Polaris — Klavye Kısayolları
+# Polaris — Klavye Kısayolları
 
 Polaris'te kurgu sürecinizi hızlandıran tüm klavye ve fare kısayolları aşağıda listelenmiştir:
 
