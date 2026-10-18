@@ -1,0 +1,36 @@
+POLARIS SON KULLANICI LİSANS SÖZLEŞMESİ (EULA)
+POLARIS END USER LICENSE AGREEMENT
+
+Telif Hakkı (c) 2026 Tarık Tunç <info@blakfy.com>. Tüm Hakları Saklıdır.
+Copyright (c) 2026 Tarık Tunç <info@blakfy.com>. All Rights Reserved.
+
+ÖNEMLİ: BU YAZILIMI İNDİRMEDEN, YÜKLEMEDEN VEYA KULLANMADAN ÖNCE LÜTFEN BU SÖZLEŞMEYİ DİKKATLE OKUYUNUZ.
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, OR USING THIS SOFTWARE.
+
+1. LİSANS VERİLMESİ (GRANT OF LICENSE)
+İşbu Sözleşme, Lisans Sahibi (Tarık Tunç) tarafından size, Polaris ("Yazılım") yazılımını işbu sözleşme şartları dahilinde yalnızca kişisel veya şirket içi meşru amaçlarla kullanmanız için münhasır olmayan, devredilemez ve sınırlı bir kullanım hakkı tanır.
+(This Agreement grants you a non-exclusive, non-transferable, revocable license to use Polaris strictly in accordance with the terms of this Agreement.)
+
+2. MÜLKİYET VE TELİF HAKLARI (OWNERSHIP & PROPRIETARY RIGHTS)
+Yazılımın tüm fikri mülkiyet hakları, kaynak kodları, algoritmaları, ticari unvanları ve telif hakları münhasıran Tarık Tunç'a aittir. Yazılım satılmamakta; kullanım hakkı lisanslanmaktadır.
+(The Software, including its source code, algorithms, and all intellectual property rights, is and remains the sole property of Tarık Tunç. The Software is licensed, not sold.)
+
+3. KISITLAMALAR (RESTRICTIONS)
+Aşağıdaki eylemler açıkça yasaklanmıştır:
+a) Yazılımı parçalamak, kaynak koda dönüştürmek (decompile), tersine mühendislik (reverse engineering) uygulamak veya kaynak kodunu çıkarmaya teşebbüs etmek;
+b) Yazılımı veya bileşenlerini satmak, kiralamak, alt lisans vermek, dağıtmak veya ticari bir kiralama hizmetine konu etmek;
+c) Yazılımın güvenlik mekanizmalarını veya lisans denetimlerini devre dışı bırakmak ya da değiştirmek;
+d) Lisans Sahibi'nin yazılı izni olmaksızın Yazılımı üçüncü taraflara ticari bir servis veya türev ürün olarak sunmak.
+(You agree not to decompile, reverse engineer, disassemble, modify, rent, lease, sublicense, resell, or distribute the Software without prior written permission.)
+
+4. BETA SÜRÜMÜ BİLDİRİMİ (BETA DISCLAIMER)
+Bu sürüm (v0.1.0-beta) bir önizleme ve test sürümüdür. Kararsızlıklar veya beklenmeyen hatalar içerebilir.
+(This beta version is provided for evaluation and testing purposes and may contain defects or errors.)
+
+5. GARANTİ REDDİ VE SORUMLULUK SINIRLAMASI (DISCLAIMER OF WARRANTY & LIABILITY)
+YAZILIM "OLDUĞU GİBİ" (AS-IS) SUNULMAKTADIR. LİSANS SAHİBİ, YAZILIMIN KESİNTİSİZ YA DA HATASIZ ÇALIŞACAĞINA DAİR HİÇBİR AÇIK VEYA ZIMNİ GARANTİ VERMEZ. VERİ KAYBI VEYA DOĞRUDAN/DOLAYLI ZARARLARDAN LİSANS SAHİBİ SORUMLU TUTULAMAZ.
+(THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SOFTWARE.)
+
+6. İLETİŞİM (CONTACT)
+Lisanslama ve ticari izin talepleriniz için lütfen iletişime geçiniz: info@blakfy.com
+(For licensing and commercial permissions, please contact: info@blakfy.com)

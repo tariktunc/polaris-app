@@ -43,4 +43,4 @@
 ## 🛡️ Privacy & License
 
 * **100% Offline & Private**: Your recordings and audio never leave your computer. All processing runs locally on your hardware.
-* **License**: [MIT License](https://github.com/tariktunc/polaris/blob/main/LICENSE) — Copyright © 2026 **Tarık Tunç** (<info@blakfy.com>).
+* **License**: [Polaris End User License Agreement (EULA)](LICENSE) — Copyright © 2026 **Tarık Tunç** (<info@blakfy.com>). All Rights Reserved.

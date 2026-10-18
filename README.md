@@ -45,4 +45,4 @@ Ayrıntılı adımlar ve rehberler için ilgili sayfalara göz atabilirsiniz:
 ## 🛡️ Gizlilik & Lisans
 
 * **%100 Yerel (Offline)**: Kayıtlarınız ve sesleriniz asla buluta gitmez; tüm işlem kendi bilgisayarınızda gerçekleşir.
-* **Lisans**: [MIT Lisansı](https://github.com/tariktunc/polaris/blob/main/LICENSE) — Telif Hakkı © 2026 **Tarık Tunç** (<info@blakfy.com>).
+* **Lisans**: [Polaris Son Kullanıcı Lisans Sözleşmesi (EULA)](LICENSE) — Telif Hakkı © 2026 **Tarık Tunç** (<info@blakfy.com>). Tüm Hakları Saklıdır.
